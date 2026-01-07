@@ -5,10 +5,10 @@
      Console.WriteLine("Double Number : "+doubleVar);
    //Implicit Conversion
      Console.WriteLine("After Conversion");
-  //   doubleVar=intVar;
+       doubleVar=intVar;
      Console.WriteLine("Integer Number : "+intVar);
      Console.WriteLine("Double Number : "+doubleVar);
-
+          
    //Explicit Conversion  
 
   Console.WriteLine("After Conversion");
@@ -17,4 +17,10 @@
      Console.WriteLine("Double Number : "+doubleVar);
     // Conversion String
      string age="19";
-     int intAge=int.Parse(age);
+     int intAge=int.Parse(age); // int.Phase Are in RunTime
+          Console.WriteLine("Age : "+intAge); 
+
+    // Conversion Built In
+    int Price =100;
+    string InputFiled=Convert.ToString(Price);
+    Console.WriteLine("Price : "+InputFiled);

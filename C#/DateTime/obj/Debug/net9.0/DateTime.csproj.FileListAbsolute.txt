@@ -1,0 +1,15 @@
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/bin/Debug/net9.0/DateTime
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/bin/Debug/net9.0/DateTime.deps.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/bin/Debug/net9.0/DateTime.runtimeconfig.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/bin/Debug/net9.0/DateTime.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/bin/Debug/net9.0/DateTime.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/obj/Debug/net9.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/obj/Debug/net9.0/DateTime.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/obj/Debug/net9.0/DateTime.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/obj/Debug/net9.0/DateTime.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/obj/Debug/net9.0/DateTime.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/obj/Debug/net9.0/DateTime.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/obj/Debug/net9.0/refint/DateTime.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/obj/Debug/net9.0/DateTime.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/obj/Debug/net9.0/DateTime.genruntimeconfig.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DateTime/obj/Debug/net9.0/ref/DateTime.dll

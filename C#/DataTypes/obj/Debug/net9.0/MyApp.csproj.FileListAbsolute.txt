@@ -26,3 +26,11 @@
 /home/akrambahy/MyCurrentLearn/Dotnet/C#/MyApp/obj/Debug/net9.0/MyApp.pdb
 /home/akrambahy/MyCurrentLearn/Dotnet/C#/MyApp/obj/Debug/net9.0/MyApp.genruntimeconfig.cache
 /home/akrambahy/MyCurrentLearn/Dotnet/C#/MyApp/obj/Debug/net9.0/ref/MyApp.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataTypes/obj/Debug/net9.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataTypes/obj/Debug/net9.0/MyApp.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataTypes/obj/Debug/net9.0/MyApp.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataTypes/obj/Debug/net9.0/MyApp.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataTypes/obj/Debug/net9.0/MyApp.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataTypes/obj/Debug/net9.0/MyApp.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataTypes/obj/Debug/net9.0/refint/MyApp.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataTypes/obj/Debug/net9.0/MyApp.pdb

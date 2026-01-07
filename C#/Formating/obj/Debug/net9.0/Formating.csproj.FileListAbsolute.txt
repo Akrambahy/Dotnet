@@ -1,0 +1,5 @@
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.sourcelink.json
