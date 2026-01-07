@@ -1,0 +1,15 @@
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/bin/Debug/net9.0/TypeConversion
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/bin/Debug/net9.0/TypeConversion.deps.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/bin/Debug/net9.0/TypeConversion.runtimeconfig.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/bin/Debug/net9.0/TypeConversion.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/bin/Debug/net9.0/TypeConversion.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/obj/Debug/net9.0/TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/obj/Debug/net9.0/TypeConversion.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/obj/Debug/net9.0/TypeConversion.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/obj/Debug/net9.0/TypeConversion.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/obj/Debug/net9.0/TypeConversion.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/obj/Debug/net9.0/TypeConversion.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/obj/Debug/net9.0/refint/TypeConversion.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/obj/Debug/net9.0/TypeConversion.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/obj/Debug/net9.0/TypeConversion.genruntimeconfig.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/TypeConversion/obj/Debug/net9.0/ref/TypeConversion.dll
