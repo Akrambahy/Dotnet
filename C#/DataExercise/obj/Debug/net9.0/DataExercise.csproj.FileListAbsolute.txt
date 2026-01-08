@@ -1,0 +1,15 @@
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/bin/Debug/net9.0/DataExercise
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/bin/Debug/net9.0/DataExercise.deps.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/bin/Debug/net9.0/DataExercise.runtimeconfig.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/bin/Debug/net9.0/DataExercise.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/bin/Debug/net9.0/DataExercise.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/obj/Debug/net9.0/DataExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/obj/Debug/net9.0/DataExercise.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/obj/Debug/net9.0/DataExercise.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/obj/Debug/net9.0/DataExercise.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/obj/Debug/net9.0/DataExercise.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/obj/Debug/net9.0/DataExercise.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/obj/Debug/net9.0/refint/DataExercise.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/obj/Debug/net9.0/DataExercise.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/obj/Debug/net9.0/DataExercise.genruntimeconfig.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/DataExercise/obj/Debug/net9.0/ref/DataExercise.dll

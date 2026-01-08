@@ -1,0 +1,15 @@
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/obj/Debug/net9.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/obj/Debug/net9.0/Operators.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/obj/Debug/net9.0/Operators.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/obj/Debug/net9.0/Operators.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/obj/Debug/net9.0/Operators.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/bin/Debug/net9.0/Operators
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/bin/Debug/net9.0/Operators.deps.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/bin/Debug/net9.0/Operators.runtimeconfig.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/bin/Debug/net9.0/Operators.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/bin/Debug/net9.0/Operators.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/obj/Debug/net9.0/Operators.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/obj/Debug/net9.0/refint/Operators.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/obj/Debug/net9.0/Operators.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/obj/Debug/net9.0/Operators.genruntimeconfig.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Operators/obj/Debug/net9.0/ref/Operators.dll

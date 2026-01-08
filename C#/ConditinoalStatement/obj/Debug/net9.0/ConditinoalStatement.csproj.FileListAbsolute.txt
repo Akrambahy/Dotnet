@@ -1,0 +1,15 @@
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/bin/Debug/net9.0/ConditinoalStatement
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/bin/Debug/net9.0/ConditinoalStatement.deps.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/bin/Debug/net9.0/ConditinoalStatement.runtimeconfig.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/bin/Debug/net9.0/ConditinoalStatement.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/bin/Debug/net9.0/ConditinoalStatement.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/obj/Debug/net9.0/ConditinoalStatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/obj/Debug/net9.0/ConditinoalStatement.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/obj/Debug/net9.0/ConditinoalStatement.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/obj/Debug/net9.0/ConditinoalStatement.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/obj/Debug/net9.0/ConditinoalStatement.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/obj/Debug/net9.0/ConditinoalStatement.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/obj/Debug/net9.0/refint/ConditinoalStatement.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/obj/Debug/net9.0/ConditinoalStatement.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/obj/Debug/net9.0/ConditinoalStatement.genruntimeconfig.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/ConditinoalStatement/obj/Debug/net9.0/ref/ConditinoalStatement.dll
