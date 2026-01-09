@@ -81,3 +81,15 @@ if(username&&password)Console.WriteLine("Login Accepted. "); //username =true an
 else if((username||email)&&email)Console.WriteLine("Login Accepted. , but username is wrong"); //username =false and email=true password =true
 else if(username||password)Console.WriteLine("Just One is True , try again "); //username =true or password =true but not both
 else Console.WriteLine("you Are Band , Nothing True "); // all is false
+
+
+// Ternary Operator 
+   //(condition) ? if true do: if false do;
+int x=5,y=6;
+var maxResult=(x>y) ? x:y;  // max Result equal to y
+bool successful=true;
+(successful==true) ?Console.WriteLine("pass"): Console.WriteLine("failed"); //print pass
+//"??"Null coalescing Operator
+//DT name= var ?? if Null do;
+int n=12;
+var newVar=n ?? 0;//if n not null assign n value for new Var if Null assign 0

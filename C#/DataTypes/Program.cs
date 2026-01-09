@@ -39,3 +39,9 @@ Console.WriteLine(IsWork);
 
 // Var 
 var Variable = 5;// assign integer Value auto 
+
+// Nullable type is null value for value type
+//datatype ? name = null;
+int ? x=null;//nullable int type
+ // Constants
+ // const DT name = value ; we cant change value of variable after this

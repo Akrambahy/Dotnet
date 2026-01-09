@@ -1,27 +1,15 @@
-﻿DateTime MyDate=DateTime.Now; // Global date
-DateTime Date= new DateTime(2022,02,2); //Specific Date  
+﻿DateTime MyDate = DateTime.Now; // Global Time 
+DateTime Date = new DateTime(11, 11, 2006);// Specific  Time 
 
-Console.WriteLine("Date : {0}",MyDate);
+Console.WriteLine("Date : {0}", MyDate);
 
-string formattedDate=string.Format("Date : {0:yyyy MMMM dddd} , Time {0:hhhh mmmm sss} ", MyDate); 
-
+string formattedDate = string.Format("Date : {0:yyyy MMMM dddd} , Time {0:hhhh mmmm sss tt} ", MyDate); // y-> year M->Month d->day , h->hour m->minute  s->secund tt -> am or pm 
 Console.WriteLine(formattedDate);
 
-//DateOnly
 
-DateOnly newDate= new DateOnly(2024,05,6);
-Console.WriteLine(newDate.DayNumber); // Print Day Number in Year
-Console.WriteLine(newDate.Month); // Print Month Of newDate
-Console.WriteLine(newDate.Day); // Print Day Of newDate
-Console.WriteLine(newDate.DayOfWeek);  // Print Name of day in week
+Console.WriteLine(Date.Year); // Print Year Of Date
+Console.WriteLine(Date.Month);// Print Month Of Date
+Console.WriteLine(Date.Day); // Print Day of Date
+Console.WriteLine(Date.DayOfWeek); // Print the name of day in this week
+Console.WriteLine(Date.DayOfYear); // print the number of day in year
 
-var currentDate=DateOnly.FromDateTime(DateTime.Now);
-
-//TimeOnly
-
-TimeOnly eventIn=new TimeOnly(5,0);// with 24 h
-TimeOnly eventOut=new TimeOnly(13,0); // with 24 h
-
-var span = eventOut-eventIn; // var = span time type
-
-Console.WriteLine($"Duration : {span.TotalHours}"); // Print total house of Work

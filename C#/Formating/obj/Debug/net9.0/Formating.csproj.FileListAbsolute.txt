@@ -3,3 +3,13 @@
 /home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.AssemblyInfo.cs
 /home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.csproj.CoreCompileInputs.cache
 /home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/bin/Debug/net9.0/Formating
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/bin/Debug/net9.0/Formating.deps.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/bin/Debug/net9.0/Formating.runtimeconfig.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/bin/Debug/net9.0/Formating.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/bin/Debug/net9.0/Formating.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/refint/Formating.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/Formating.genruntimeconfig.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Formating/obj/Debug/net9.0/ref/Formating.dll
