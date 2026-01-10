@@ -1,0 +1,15 @@
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/obj/Debug/net9.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/obj/Debug/net9.0/Array.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/obj/Debug/net9.0/Array.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/obj/Debug/net9.0/Array.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/obj/Debug/net9.0/Array.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/bin/Debug/net9.0/Array
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/bin/Debug/net9.0/Array.deps.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/bin/Debug/net9.0/Array.runtimeconfig.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/bin/Debug/net9.0/Array.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/bin/Debug/net9.0/Array.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/obj/Debug/net9.0/Array.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/obj/Debug/net9.0/refint/Array.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/obj/Debug/net9.0/Array.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/obj/Debug/net9.0/Array.genruntimeconfig.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Array/obj/Debug/net9.0/ref/Array.dll

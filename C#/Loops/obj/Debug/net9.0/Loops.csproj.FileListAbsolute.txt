@@ -1,0 +1,15 @@
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/bin/Debug/net9.0/Loops
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/bin/Debug/net9.0/Loops.deps.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/bin/Debug/net9.0/Loops.runtimeconfig.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/bin/Debug/net9.0/Loops.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/bin/Debug/net9.0/Loops.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/obj/Debug/net9.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/obj/Debug/net9.0/Loops.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/obj/Debug/net9.0/Loops.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/obj/Debug/net9.0/Loops.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/obj/Debug/net9.0/Loops.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/obj/Debug/net9.0/Loops.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/obj/Debug/net9.0/refint/Loops.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/obj/Debug/net9.0/Loops.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/obj/Debug/net9.0/Loops.genruntimeconfig.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Loops/obj/Debug/net9.0/ref/Loops.dll

@@ -19,9 +19,9 @@ Console.WriteLine($"Salary : {salary}");
 
 // TryParse
 
-int.TryParse(Console.ReadLine(),out int x); // convert Console.ReadLine() from string to integer in store in x if valid input if else not invalid store 0 in x
+bool validInput=int.TryParse(Console.ReadLine(),out int x); // convert Console.ReadLine() from string to integer in store in x if valid input if else not invalid store 0 in x and return true if valid false if invalid 
 
-if(x==0) Console.WriteLine("invalid Input");
+if(validInput==false) Console.WriteLine("invalid Input");
 else Console.WriteLine($"Valid Input : {x}");
 
 

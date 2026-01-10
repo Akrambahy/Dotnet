@@ -1,0 +1,15 @@
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/bin/Debug/net9.0/Math
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/bin/Debug/net9.0/Math.deps.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/bin/Debug/net9.0/Math.runtimeconfig.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/bin/Debug/net9.0/Math.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/bin/Debug/net9.0/Math.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/obj/Debug/net9.0/Math.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/obj/Debug/net9.0/Math.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/obj/Debug/net9.0/Math.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/obj/Debug/net9.0/Math.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/obj/Debug/net9.0/Math.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/obj/Debug/net9.0/Math.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/obj/Debug/net9.0/refint/Math.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/obj/Debug/net9.0/Math.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/obj/Debug/net9.0/Math.genruntimeconfig.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/Math/obj/Debug/net9.0/ref/Math.dll
