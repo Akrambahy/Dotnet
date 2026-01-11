@@ -42,6 +42,17 @@ var Variable = 5;// assign integer Value auto
 
 // Nullable type is null value for value type
 //datatype ? name = null;
-int ? x=null;//nullable int type
- // Constants
- // const DT name = value ; we cant change value of variable after this
+int? x = null;//nullable int type
+              // Constants
+              // const DT name = value ; we cant change value of variable after this
+
+// indices 
+
+string[] names = { "akram", "ali", "mohamed" };
+
+var SpNames = names[1..2];
+
+// Range is data type : Range varName = [from..to]
+
+Range NameRange = [1..3];
+var SpNames2 = names[Range];

@@ -19,7 +19,7 @@ Console.WriteLine("Hex : {0:X}", 1358580);//Print as A Hex Decimal
                                           // String manipulation
 string text = "  my name is akram ";
 
-//              String Manipulation/
+//              String Manipulation
 
 // trim() to remove white spaces form right and left
 Console.WriteLine($"Trim : {text.Trim()}");
@@ -74,4 +74,4 @@ Name : Akram
 Age : 19
 Phone : 01212524827
 Email : akrambahy0@gmail.com
-"); 
+");

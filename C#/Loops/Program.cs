@@ -38,9 +38,23 @@ do
 
 for (int i = 1; i <= 10; i++)
 {
-      Console.WriteLine($"Table {i}");
+    Console.WriteLine($"Table {i}");
     for (int j = 1; j <= 10; j++)
     {
         Console.WriteLine($"{i} * {j} = {i * j}");  // Print MultiTable for 1 to 10
     }
 }
+
+// foreach(var item in collection){body with item as iterator}
+int[] array = { 12, 11, 7, 90 };
+
+foreach (var number in array)
+{
+    Console.WriteLine(number);
+
+}
+//Print
+/*12
+11
+7
+90*/
