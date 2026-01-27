@@ -1,0 +1,26 @@
+What OOP ?
+OOP : Is Object Oriented Programming To Convert Our Thinking In Programming
+From "Functional Programming" To "Object Oriented ", Why ?
+To Simulate Thinking To Human Thinking Using Think As A Object And Determine Distance And Description  Of Problem  
+ When Creating class i make it in General A A Abstract Thing 
+ 
+ Class Is Logical Representation From Thing 
+ Object Is physical Representation From Thing
+ Object Is Instance From Class And Have Values
+
+ ClassCar=>  Logical Representation
+ ObjCar1 => physical Representation
+
+  Create Class In C#
+  class className {PropertiesClass};
+   Create Object From Class In C#
+   className ObjName=new className();
+  
+ OOP Principal And Concepts
+ 1-Abstraction
+ 2-Encapsulation
+ 3-Inheritance
+ 4-Polymorphism
+
+Abstraction Mean Abstract Thing To make it pure to class And Make it Comfort For Business Model
+Encapsulation control visibility of class members
