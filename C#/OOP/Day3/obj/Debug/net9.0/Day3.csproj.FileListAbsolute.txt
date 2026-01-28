@@ -1,0 +1,15 @@
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/obj/Debug/net9.0/Day3.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/obj/Debug/net9.0/Day3.AssemblyInfoInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/obj/Debug/net9.0/Day3.AssemblyInfo.cs
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/obj/Debug/net9.0/Day3.csproj.CoreCompileInputs.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/obj/Debug/net9.0/Day3.sourcelink.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/bin/Debug/net9.0/Day3
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/bin/Debug/net9.0/Day3.deps.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/bin/Debug/net9.0/Day3.runtimeconfig.json
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/bin/Debug/net9.0/Day3.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/bin/Debug/net9.0/Day3.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/obj/Debug/net9.0/Day3.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/obj/Debug/net9.0/refint/Day3.dll
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/obj/Debug/net9.0/Day3.pdb
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/obj/Debug/net9.0/Day3.genruntimeconfig.cache
+/home/akrambahy/MyCurrentLearn/Dotnet/C#/OOP/Day3/obj/Debug/net9.0/ref/Day3.dll
