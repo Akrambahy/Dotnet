@@ -45,8 +45,8 @@ namespace Day3
                 inst = i;
             }
             public void InstructorExplain()
-            {}
-                
+            { }
+
 
         }
 
@@ -65,26 +65,26 @@ namespace Day3
             public void Fun2() { }//Use Head
             public void Fun3() { }//Use Head
         }
-     
-     // Inheritance
-        
+
+        // Inheritance
+
         class Creature
         {
-           public string name="";
-            public int age=0;
+            public string name = "";
+            public int age = 0;
 
-           public void move(){}
-         public  Creature(string Name,int Age){}
+            public void move() { }
+            public Creature(string Name, int Age) { }
         }
-       class Human:Creature
+        class Human : Creature
         {
-            public string job="";
-            public void learn(){}
-                   public  Human (string Name,string Job,int Age) : base(Name, Age)
+            public string job = "";
+            public void learn() { }
+            public Human(string Name, string Job, int Age) : base(Name, Age)
             {
-                
+
             }
-            
+
         }
 
         static void Main(string[] args)
