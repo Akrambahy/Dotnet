@@ -19,7 +19,7 @@ class Program
           public  int Id;
           public  string name;
             
-         public  static void Fun(object obj) // obj can be any DT a 135 false Objectclass 
+          public  static void Fun(object obj) // obj can be any DT a 135 false Objectclass 
             {
                 
             }
